@@ -1,0 +1,6 @@
+config:
+  requests:
+    test: true
+  images:
+    provider:
+      url: http://placehold.it/
